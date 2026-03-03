@@ -1,5 +1,40 @@
 # SUV Hunt: Mid-Size Hybrid SUV Research
 
+## 🏆 TOP RECOMMENDATION: Toyota RAV4 Hybrid
+
+**Winner: Best Overall Mid-Size Hybrid SUV**
+
+The **Toyota RAV4 Hybrid** is our top recommendation as the best mid-size hybrid SUV for 2026. It combines the highest reliability ratings, exceptional performance, strong safety credentials, and the lowest entry price while delivering excellent owner satisfaction.
+
+### Why Toyota RAV4 Hybrid?
+
+| Factor | Result |
+|--------|--------|
+| **Reliability** | #1 among 23 compact SUVs (Consumer Reports) |
+| **Safety** | 5-star NHTSA overall rating |
+| **Performance** | 300+ hp, 5.9 sec 0-60 (fastest in class) |
+| **Owner Satisfaction** | 85%+ would repurchase |
+| **Starting Price** | $31,900 (lowest in segment) |
+| **Annual Maintenance** | $429-787 (below average) |
+| **Fuel Economy** | 94 MPG-e (EV mode) / 38 mpg (hybrid mode) |
+| **All-Electric Range** | 42 miles (Prime model) |
+
+### Key Strengths:
+- **Proven Reliability:** Toyota's legendary reliability backed by #1 Consumer Reports ranking
+- **Best Value:** Lowest starting price ($31,900) with premium features
+- **Strong Performance:** Most powerful hybrid in class with 5.9 second 0-60 acceleration
+- **Superior Safety:** 5-star NHTSA crash testing with comprehensive safety suite
+- **Owner Confidence:** 85%+ repurchase intent shows high satisfaction
+- **Efficient:** Exceptional fuel economy for both electric and hybrid driving modes
+
+### Consider These Alternatives:
+- **Best Safety:** Mazda CX-50 Hybrid (IIHS Top Safety Pick Plus)
+- **Best for Families:** Toyota Highlander Hybrid (3-row seating, 8 passengers)
+- **Best Budget Option:** Subaru Crosstrek Hybrid ($33,995 starting price)
+- **Best Value:** Mazda CX-50 Hybrid ($34,750 base, highest resale value)
+
+---
+
 ## Overview
 
 This document serves as a comprehensive research guide for evaluating and comparing mid-size hybrid SUVs from leading manufacturers. Our focus is on vehicles that balance reliability, safety, efficiency, and value to help identify the best hybrid SUV options available in 2026.
